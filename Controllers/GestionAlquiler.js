@@ -24,7 +24,7 @@ class ServicioAlquiler {
             const id_empleado = parseInt(Id_Empleados);
             const valorinicial = parseInt(Valor_Inicial);
             
-            const total = parseFloat(Total);
+            
 
 
 
