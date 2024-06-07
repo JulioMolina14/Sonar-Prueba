@@ -98,7 +98,7 @@ class ServicioAlquiler {
             fecha.setDate(fecha.getDate() + 1);
 
             
-            const fechaFormateada = fecha.toISOString().slice(0, 19).replace("T", " ");
+            
 
             if ((Pago_Inicial != 0) || (Pago_Inicial == 0)) {
 
