@@ -256,7 +256,7 @@ class ServicioAlquiler {
 
         }
         
-            return false;
+          
         
 
 
